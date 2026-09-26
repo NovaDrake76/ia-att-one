@@ -1,0 +1,19 @@
+{
+	"name": "1. Tens of enemies (5 per area)",
+	"seed": 1,
+	"area_size": 1200,
+	"activation_distance": 300,
+	"survival_time": 60,
+	"enemies_per_area": 5,
+	"health_kits_per_area": 2,
+	"ammo_boxes_per_area": 2,
+	"safe_radius": 300,
+	"player_speed": 260,
+	"player_health": 100,
+	"enemy_speed": 120,
+	"enemy_health": 30,
+	"enemy_damage": 25,
+	"medkit_heal": 40,
+	"ammo_radius": 250,
+	"ammo_damage": 35
+}

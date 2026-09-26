@@ -1,0 +1,19 @@
+{
+	"name": "3. Thousands of enemies (300 per area)",
+	"seed": 3,
+	"area_size": 1200,
+	"activation_distance": 300,
+	"survival_time": 90,
+	"enemies_per_area": 300,
+	"health_kits_per_area": 3,
+	"ammo_boxes_per_area": 8,
+	"safe_radius": 300,
+	"player_speed": 260,
+	"player_health": 100,
+	"enemy_speed": 80,
+	"enemy_health": 30,
+	"enemy_damage": 2,
+	"medkit_heal": 40,
+	"ammo_radius": 300,
+	"ammo_damage": 35
+}

@@ -1,0 +1,19 @@
+{
+	"name": "5. Large areas (2500 px)",
+	"seed": 5,
+	"area_size": 2500,
+	"activation_distance": 600,
+	"survival_time": 120,
+	"enemies_per_area": 120,
+	"health_kits_per_area": 4,
+	"ammo_boxes_per_area": 6,
+	"safe_radius": 400,
+	"player_speed": 260,
+	"player_health": 100,
+	"enemy_speed": 110,
+	"enemy_health": 30,
+	"enemy_damage": 15,
+	"medkit_heal": 40,
+	"ammo_radius": 250,
+	"ammo_damage": 35
+}

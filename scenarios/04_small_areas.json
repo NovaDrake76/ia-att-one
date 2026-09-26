@@ -1,0 +1,19 @@
+{
+	"name": "4. Small areas (500 px)",
+	"seed": 4,
+	"area_size": 500,
+	"activation_distance": 120,
+	"survival_time": 60,
+	"enemies_per_area": 15,
+	"health_kits_per_area": 1,
+	"ammo_boxes_per_area": 2,
+	"safe_radius": 150,
+	"player_speed": 260,
+	"player_health": 100,
+	"enemy_speed": 110,
+	"enemy_health": 30,
+	"enemy_damage": 15,
+	"medkit_heal": 40,
+	"ammo_radius": 180,
+	"ammo_damage": 35
+}
